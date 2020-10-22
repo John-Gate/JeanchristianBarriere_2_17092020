@@ -13,6 +13,11 @@ body{
   width: 66%;
   margin: auto;
 }
+.article{
+  display:flex;
+  color: inherit;
+  width: 100%;
+}
 
 /**** Nav Bar ****/
 .nav-bar{
@@ -154,7 +159,7 @@ body{
 }
 
 /**** Premiere Section ****/
-.premiere-section{
+.big-section{
   display: flex;
   margin-bottom: 20px;
 }
@@ -215,6 +220,7 @@ body{
 }
 .hebergement-headline-text-fin{
   font-size: 15px;
+  color: inherit;
 }
 .hebergement-range-1, .hebergement-range-2{
   display: flex;
@@ -301,7 +307,7 @@ body{
   background-size: cover;
   background-position: center;
   border-radius: 15px;
-  box-shadow: 10px 10px 25px -19px rgba(0,0,0,0.75); 
+  box-shadow: 1px 1px 15px rgb(158, 158, 158); 
   cursor: pointer;
 }
 .activite-sec:hover{
@@ -358,7 +364,7 @@ body{
 .activite-text p {
   padding-left: 6px;
 } 
-#sousactivite a{
+#sousactivite article a{
   display: flex;
   color: inherit;
 }
@@ -403,7 +409,7 @@ footer{
   }
 
   /**** PremiereSection-Tab ****/
-  .premiere-section{
+  .big-section{
     width: 100%;
     flex-direction: column;
   }
@@ -593,7 +599,7 @@ footer{
   }
 
   /**** Populaire-Mobiles ****/   
-  .premiere-section{
+  .big-section{
     width: 100%;
     flex-direction: column;
     overflow: hidden;
