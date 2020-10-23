@@ -301,6 +301,9 @@ article{
 .populaire-responsive article{
   display: block;
 }
+.populaire-legende{
+  margin-left: 20px;
+}
 
 /**** Activites ****/
 .activite{
@@ -370,15 +373,17 @@ article{
   height: 60px;
   border-radius: 0px 0px 15px 15px;
   font-size: 13px;
-  justify-content: center;
+  justify-content: flex-start;
   color: black;
 }
 .activite-text p {
   padding-left: 6px;
 } 
-#sousactivite h4{
+
+#sousactivite h3{
   display: flex;
   color: black;
+  margin-left: 10px;
 }
 
 /**** FOOTER ****/
