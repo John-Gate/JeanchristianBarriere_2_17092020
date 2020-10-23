@@ -364,9 +364,9 @@ body{
 .activite-text p {
   padding-left: 6px;
 } 
-#sousactivite article a{
+#sousactivite h4{
   display: flex;
-  color: inherit;
+  color: black;
 }
 
 /**** FOOTER ****/
@@ -401,6 +401,9 @@ footer{
 @media screen and (max-width: 980px) {
   body{
      width: 100%; 
+  }
+  .populaire-responsive .article{
+    display: block;
   }
 
   /**** Navar-Tab ****/
