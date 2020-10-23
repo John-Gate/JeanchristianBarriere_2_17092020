@@ -13,7 +13,7 @@ body{
   width: 66%;
   margin: auto;
 }
-.article{
+article{
   display:flex;
   color: inherit;
   width: 100%;
@@ -176,6 +176,9 @@ body{
   justify-content: space-between;
   flex-wrap: wrap;
   flex-direction: column;
+}
+.hebergement-vignettes h2{
+  margin: 0 0 0 10px;
 }
 .hebergement-annonce-info{
   width: 100%;
@@ -452,6 +455,9 @@ footer{
   }
   .hebergement-range-1, .hebergement-range-2{
     flex-direction: column;
+  }
+  .populaire-responsive article{
+    display: block;
   }
 
   /**** Activite-Tab ****/
