@@ -292,6 +292,9 @@ article{
   display: flex;
   color: inherit;
 }
+.populaire-responsive article{
+  display: block;
+}
 
 /**** Activites ****/
 .activite{
@@ -456,10 +459,7 @@ footer{
   .hebergement-range-1, .hebergement-range-2{
     flex-direction: column;
   }
-  .populaire-responsive article{
-    display: block;
-  }
-
+ 
   /**** Activite-Tab ****/
   .activite{
     min-width: unset;
