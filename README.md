@@ -12,7 +12,7 @@ Intégration d’une maquette en site web : Partir d’une maquette graphique po
 * [Email](mailto:barrierejc@live.fr?subject=[GitHub]%20Source%20Han%20Sans)
 * [LinkedIn](https://linkedin.com/in/jean-christian-barriere)
 ## Installation
-Pour ce [projet] (https://john-gate.github.io/jeanchristianbarriere_2_17092020/), aucune installation n'est nécessaire:
+Pour ce [projet](https://john-gate.github.io/jeanchristianbarriere_2_17092020/), aucune installation n'est nécessaire:
 
 ## Collaboration
 ***
