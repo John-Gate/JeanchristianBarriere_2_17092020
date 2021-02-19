@@ -8,7 +8,11 @@
 7. [Contact](#Contact)
 
 ### Information Generale
-Intégration d’une maquette en site web : Partir d’une maquette graphique pour transformer une page web en HTML CSS, implémenter une interface responsive, utiliser un système de gestion de version pour le suivie du projet et son hébergement.   
+Intégration d’une maquette en site web :
+* Partir d’une maquette graphique pour transformer une page web en HTML CSS.
+* Iplémenter une interface responsive.
+* Uiliser un système de gestion de version pour le suivie du projet et son hébergement.   
+
 ### Reservia 
 ![Image text](https://github.com/John-Gate/jeanchristianbarriere_2_17092020/blob/master/images/logo/Reservia.png)
 >site permettant aux usagers de trouver des hébergements et des activités dans la ville de leur choix.
