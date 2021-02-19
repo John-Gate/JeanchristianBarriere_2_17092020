@@ -1,7 +1,7 @@
 ## Table des Matières
 1. [Information Generale](#general-info)
 2. [Installation](#Installation)
-3. [Éléments fournis par l'entreprise virtuelle](#Éléments-fournis-par-l'entreprise-virtuelle)
+3. [Éléments fournis](#Éléments-fournis)
 4. [Cahier des charges](#Cahier-des-charges)
 5. [Évaluation](#Évaluation)
 6. [Note](#Note)
@@ -20,7 +20,7 @@ Intégration d’une maquette en site web :
 ## Installation
 Pour ce [projet](https://john-gate.github.io/jeanchristianbarriere_2_17092020/), aucune installation n'est nécessaire.
 
-## Éléments fournis par l'entreprise virtuelle
+## Éléments fournis
 * La maquette pour les résolutions ordinateur et téléphone nous est donné.
 * Toutes les images présentes sur le site sont aussi livrés en format sm, md, l & xl.
 * Les icones proviennent de Font Awesome.
