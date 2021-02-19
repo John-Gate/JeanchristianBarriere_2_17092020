@@ -8,7 +8,7 @@
 7. [Contact](#Contact)
 
 ### Information Generale
-Intégration d’une maquette en site web : Partir d’une maquette graphique pour transformer une page web en HTML CSS, implémenter une interface responsive, utiliser un système de gestion de version pour le suivie du projet et son hébergement.  
+Intégration d’une maquette en site web : Partir d’une maquette graphique pour transformer une page web en HTML CSS, implémenter une interface responsive, utiliser un système de gestion de version pour le suivie du projet et son hébergement.   
 ### Reservia 
 ![Image text](https://github.com/John-Gate/jeanchristianbarriere_2_17092020/blob/master/images/logo/Reservia.png)
 >site permettant aux usagers de trouver des hébergements et des activités dans la ville de leur choix.
@@ -20,7 +20,7 @@ Pour ce [projet](https://john-gate.github.io/jeanchristianbarriere_2_17092020/),
 * La maquette pour les résolutions ordinateur et téléphone nous est donné.
 * Toutes les images présentes sur le site sont aussi livrés en format sm, md, l & xl.
 * Les icones proviennent de Font Awesome.
-* Les couleurs de la charte sont le bleu [#0065FC](https://via.placeholder.com/15/0065FC/000000?text=+), et sa version plus claire #DEEBFF ainsi que le gris pour le fond #F2F2F2.
+* Les couleurs de la charte sont le bleu [#0065FC](https://via.placeholder.com/15/0065FC/000000?text=+), et sa version plus claire #DEEBFF ainsi que le gris pour le fond #F2F2F2. - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
 * La police est "Raleway".
 
 ##  Cahier des charges
