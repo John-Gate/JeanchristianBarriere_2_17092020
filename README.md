@@ -12,24 +12,12 @@ Intégration d’une maquette en site web : Partir d’une maquette graphique po
 ## Installation
 Pour ce [projet](https://john-gate.github.io/jeanchristianbarriere_2_17092020/), aucune installation n'est nécessaire.
 
-## Éléments fournis par l'entreprise virtuelle.
-***
-A list of frequently asked questions
-1. **This is a question in bold**
-Answer of the first question with _italic words_. 
-2. __Second question in bold__ 
-To answer this question we use an unordered list:
+## Éléments fournis par l'entreprise virtuelle
 * La maquette pour les résolutions ordinateur et téléphone nous est donné.
 * Toutes les images présentes sur le site sont aussi livrés en format sm, md, l & xl.
-* Les icones proviennent de Font Awesome
-* Les couleurs sont : bleu #0065FC - bleu clair #DEEBFF - gris #F2F2F2
-* La police est "Raleway"
-3. **Third question in bold**
-Answer of the third question with *italic words*.
-4. **Fourth question in bold**
-| Headline 1 in the tablehead | Headline 2 in the tablehead | Headline 3 in the tablehead |
-|:--------------|:-------------:|--------------:|
-| text-align left | text-align center | text-align right |
+* Les icones proviennent de Font Awesome.
+* Les couleurs sont : bleu #0065FC - bleu clair #DEEBFF - gris #F2F2F2.
+* La police est "Raleway".
 
 ## Contact
 * [Email](mailto:barrierejc@live.fr?subject=[GitHub]%20Source%20Han%20Sans)
