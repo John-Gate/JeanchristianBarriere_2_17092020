@@ -10,7 +10,7 @@
 ### Information Generale
 Intégration d’une maquette en site web :
 * Partir d’une maquette graphique pour transformer une page web en HTML CSS.
-* Iplémenter une interface responsive.
+* Implémenter une interface responsive.
 * Uiliser un système de gestion de version pour le suivie du projet et son hébergement.   
 
 ### Reservia 
