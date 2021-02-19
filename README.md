@@ -20,8 +20,8 @@ Pour ce [projet](https://john-gate.github.io/jeanchristianbarriere_2_17092020/),
 * Les couleurs de la charte sont le bleu #0065FC, et sa version plus claire #DEEBFF ainsi que le gris pour le fond #F2F2F2.
 * La police est "Raleway".
 
-##Cahier des charges
-Réaliser un prototype
+##  Cahier des charges
+_Réaliser un prototype_
 * Le site devra être responsive. Choix des Breakpoints et des adaptations libre.
 * Les usagers pourront rechercher des hébergements dans la ville de leur choix. Le champ de recherche est donc un champ de saisie, dont le texte peut être édité par l’usager. En revanche, à ce stade, le bouton de recherche ne sera pas fonctionnel.
 * Chaque carte d’hébergement ou d’activité devra être cliquable dans son intégralité. Pour l’instant les liens seront vides.
