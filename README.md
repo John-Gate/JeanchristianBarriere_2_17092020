@@ -20,7 +20,9 @@ Pour ce [projet](https://john-gate.github.io/jeanchristianbarriere_2_17092020/),
 * La maquette pour les résolutions ordinateur et téléphone nous est donné.
 * Toutes les images présentes sur le site sont aussi livrés en format sm, md, l & xl.
 * Les icones proviennent de Font Awesome.
-* Les couleurs de la charte sont le bleu  ![#0065FC](https://via.placeholder.com/15/0065FC/000000?text=+) `#0065FC`, et sa version plus claire ![#DEEBFF](https://via.placeholder.com/15/DEEBFF/000000?text=+) `#DEEBFF` ainsi que le gris pour le fond ## Table des Matières
+* Les couleurs de la charte sont le bleu  ![#0065FC](https://via.placeholder.com/15/0065FC/000000?text=+) `#0065FC`, et sa version plus claire ![#DEEBFF](https://via.placeholder.com/15/DEEBFF/000000?text=+) `#DEEBFF` ainsi que le gris pour le fond  ![#F2F2F2](https://via.placeholder.com/15/F2F2F2/000000?text=+) `#F2F2F2`
+F
+## Table des Matières
 1. [Information Generale](#general-info)
 2. [Installation](#Installation)
 3. [Éléments fournis par l'entreprise virtuelle](#Éléments fournis par l'entreprise virtuelle)
