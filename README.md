@@ -1,4 +1,4 @@
-## Table of Contents
+## Table des Matières
 1. [Information Generale](#general-info)
 2. [  ](#technologies)
 3. [Installation](#installation)
@@ -6,7 +6,8 @@
 5. [FAQs](#faqs)
 ### Information Generale
 Intégration d’une maquette en site web : Partir d’une maquette graphique pour transformer une page web en HTML CSS, implémenter une interface responsive, utiliser un système de gestion de version pour le suivie du projet et son hébergement.  
-### Screenshot
+### Reservia
+>site permettant aux usagers de trouver des hébergements et des activités dans la ville de leur choix. 
 ![Image text](https://github.com/John-Gate/jeanchristianbarriere_2_17092020/blob/master/images/logo/Reservia.png)
 
 ## Installation
