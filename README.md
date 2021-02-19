@@ -20,7 +20,7 @@ Pour ce [projet](https://john-gate.github.io/jeanchristianbarriere_2_17092020/),
 * La maquette pour les résolutions ordinateur et téléphone nous est donné.
 * Toutes les images présentes sur le site sont aussi livrés en format sm, md, l & xl.
 * Les icones proviennent de Font Awesome.
-* Les couleurs de la charte sont le bleu #0065FC, et sa version plus claire #DEEBFF ainsi que le gris pour le fond #F2F2F2.
+* Les couleurs de la charte sont le bleu [#0065FC](https://via.placeholder.com/15/0065FC/000000?text=+), et sa version plus claire #DEEBFF ainsi que le gris pour le fond #F2F2F2.
 * La police est "Raleway".
 
 ##  Cahier des charges
