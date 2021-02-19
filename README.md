@@ -6,9 +6,9 @@
 5. [FAQs](#faqs)
 ### Information Generale
 Intégration d’une maquette en site web : Partir d’une maquette graphique pour transformer une page web en HTML CSS, implémenter une interface responsive, utiliser un système de gestion de version pour le suivie du projet et son hébergement.  
-### Reservia
->site permettant aux usagers de trouver des hébergements et des activités dans la ville de leur choix. 
+### Reservia 
 ![Image text](https://github.com/John-Gate/jeanchristianbarriere_2_17092020/blob/master/images/logo/Reservia.png)
+>site permettant aux usagers de trouver des hébergements et des activités dans la ville de leur choix.
 
 ## Installation
 Pour ce [projet](https://john-gate.github.io/jeanchristianbarriere_2_17092020/), aucune installation n'est nécessaire.
