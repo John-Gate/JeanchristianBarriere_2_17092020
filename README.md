@@ -15,7 +15,7 @@ Intégration d’une maquette en site web :
 
 ### Reservia 
 ![Image text](https://github.com/John-Gate/jeanchristianbarriere_2_17092020/blob/master/images/logo/Reservia.png)
->site permettant aux usagers de trouver des hébergements et des activités dans la ville de leur choix.
+>site web permettant aux usagers de trouver des hébergements et des activités dans la ville de leur choix.
 
 ## Installation
 Pour ce [projet](https://john-gate.github.io/jeanchristianbarriere_2_17092020/), aucune installation n'est nécessaire.
