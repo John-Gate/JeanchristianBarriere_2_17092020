@@ -1,25 +1,49 @@
-#Éléments fournis par l'entreprise virtuelle.
-La maquette pour les résolutions ordinateur et téléphone nous est donné.
-Toutes les images présentes sur le site sont aussi livrés en format sm, md, l & xl.
-Les icones proviennent de Font Awesome
-Les couleurs sont : bleu #0065FC - bleu clair #DEEBFF - gris #F2F2F2
-La police est "Raleway"
-Cahier des charges
-L'integration doit se faire en HTML5 & CSS3, sans framework (bootstrap par exemple)
-Le champ de recherche doit être un champ de saisie, dont le texte peut être édité. La fonctionnalité de recherche ne doit pas être implémenté pour autant.
-Chaque carte d’hébergement ou d’activité devra être cliquable dans son intégralité. Pour l’instant les liens seront vides.
-Les filtres, bien que non fonctionnels, doivent changer de style au survol.
-Dans le menu, les liens “Hébergements” et “Activités” sont des ancres qui doivent mener aux sections de la page.
-Même si aucune maquette pour la résolution tablette n'est fournis, l'intégration doit la prendre en charge.
-Les images doivent être de taille adéquate afin qu'elle soit le plus jolie possible en impactant le moins possible le temps de chargement de la page.
-Le code devra utiliser les balises sémantiques et ne doit contenir aucune erreur ni alerte au validateur W3C HTML et CSS.
-Le site devra être compatible avec les dernières versions de Chrome et Firefox.
-Le HTML et le CSS doivent être séparés et le dossier doit être organisé
-Le code doit être versionné avec git et doit avoir un repo distant sur Github ou Gitlab
-Notes sur la réalisation du projet
-L'integration est faite sur l'éditeur Visual Studio Code avec les plugins Live server, Live Sass Compiler & Git Graph. Le thème, l'UI et les raccourcis clavier sont personnalisés.
-Sass est utilisé pour organiser le css. Vous trouverez le fichier sass est dans le repository (/style)
-Contact
-Si vous êtes un étudiants OpenClassrooms devs.coffee peut vous être utile.
-
-Vous pouvez me contacter sur le workplace d'openclassrooms, sur twitter ou sur mon adresse mail
+## Table of Contents
+1. [General Info](#general-info)
+2. [Technologies](#technologies)
+3. [Installation](#installation)
+4. [Collaboration](#collaboration)
+5. [FAQs](#faqs)
+### General Info
+***
+Write down the general informations of your project. It is worth to always put a project status in the Readme file. This is where you can add it. 
+### Screenshot
+![Image text](https://www.united-internet.de/fileadmin/user_upload/Brands/Downloads/Logo_IONOS_by.jpg)
+## Technologies
+***
+A list of technologies used within the project:
+* [Technologie name](https://example.com): Version 12.3 
+* [Technologie name](https://example.com): Version 2.34
+* [Library name](https://example.com): Version 1234
+## Installation
+***
+A little intro about the installation. 
+```
+$ git clone https://example.com
+$ cd ../path/to/the/file
+$ npm install
+$ npm start
+```
+Side information: To use the application in a special environment use ```lorem ipsum``` to start
+## Collaboration
+***
+Give instructions on how to collaborate with your project.
+> Maybe you want to write a quote in this part. 
+> It should go over several rows?
+> This is how you do it.
+## FAQs
+***
+A list of frequently asked questions
+1. **This is a question in bold**
+Answer of the first question with _italic words_. 
+2. __Second question in bold__ 
+To answer this question we use an unordered list:
+* First point
+* Second Point
+* Third point
+3. **Third question in bold**
+Answer of the third question with *italic words*.
+4. **Fourth question in bold**
+| Headline 1 in the tablehead | Headline 2 in the tablehead | Headline 3 in the tablehead |
+|:--------------|:-------------:|--------------:|
+| text-align left | text-align center | text-align right |
