@@ -2,7 +2,7 @@
 1. [Information Generale](#general-info)
 2. [Installation](#Installation)
 3. [Éléments fournis par l'entreprise virtuelle](#Éléments fournis par l'entreprise virtuelle)
-4. [Cahier des charges](#Cahier des charges)
+4. [Cahier des charges](#Cahier-des-charges)
 5. [Évaluation](#Évaluation)
 6. [Note](#Note)
 7. [Contact](#Contact)
@@ -20,7 +20,7 @@ Pour ce [projet](https://john-gate.github.io/jeanchristianbarriere_2_17092020/),
 * La maquette pour les résolutions ordinateur et téléphone nous est donné.
 * Toutes les images présentes sur le site sont aussi livrés en format sm, md, l & xl.
 * Les icones proviennent de Font Awesome.
-* Les couleurs de la charte sont le bleu  ![#0065FC](https://via.placeholder.com/15/0065FC/000000?text=+) `#0065FC`, et sa version plus claire ![#DEEBFF](https://via.placeholder.com/15/DEEBFF/000000?text=+) `#DEEBFF` ainsi que le gris pour le fond  ![#F2F2F2](https://via.placeholder.com/15/F2F2F2/000000?text=+) `#F2F2F2`
+* Les couleurs de la charte sont le bleu  ![#0065FC](https://via.placeholder.com/15/0065FC/000000?text=+) `#0065FC`, et sa version plus claire ![#DEEBFF](https://via.placeholder.com/15/DEEBFF/000000?text=+) `#DEEBFF` ainsi que le gris pour le fond  ![#F2F2F2](https://via.placeholder.com/15/F2F2F2/000000?text=+) `#F2F2F2`.
 
 ##  Cahier des charges
 _Réaliser un prototype_
@@ -30,7 +30,7 @@ _Réaliser un prototype_
 * Les filtres ne seront pas fonctionnels pour cette version, en revanche, il faut qu’ils changent d’apparence au survol. Je te laisse décider de l’effet le plus approprié.
 * Dans le menu, les liens “Hébergements” et “Activités” sont des ancres qui doivent mener aux sections de la page.
 * Ne pas utiliser de Framwork/Pré-compilateur CSS. Réalisaiton au Format Scratch.
-* 
+
 ## Note
 L'IDE que j'ai utilisé est *Visual Studio Code*. 
 
