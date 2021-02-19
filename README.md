@@ -1,5 +1,5 @@
 ## Table of Contents
-1. [General Info](#general-info)
+1. [Information General](#general-info)
 2. [Technologies](#technologies)
 3. [Installation](#installation)
 4. [Collaboration](#collaboration)
@@ -12,7 +12,7 @@ Write down the general informations of your project. It is worth to always put a
 ## Technologies
 ***
 A list of technologies used within the project:
-* [Email](barrierejc@live.fr)
+* [Email](mailto:barrierejc@live.fr?subject=[GitHub]%20Source%20Han%20Sans)
 * [LinkedIn](https://example.com)
 ## Installation
 ***
