@@ -1,28 +1,19 @@
 ## Table of Contents
-1. [Information General](#general-info)
-2. [Technologies](#technologies)
+1. [Information Generale](#general-info)
+2. [  ](#technologies)
 3. [Installation](#installation)
 4. [Collaboration](#collaboration)
 5. [FAQs](#faqs)
-### General Info
+### Information Generale
 Intégration d’une maquette en site web : Partir d’une maquette graphique pour transformer une page web en HTML CSS, implémenter une interface responsive, utiliser un système de gestion de version pour le suivie du projet et son hébergement.  
 ### Screenshot
 ![Image text](https://github.com/John-Gate/jeanchristianbarriere_2_17092020/blob/master/images/logo/Reservia.png)
-## Technologies
-***
-A list of technologies used within the project:
+## Contact
 * [Email](mailto:barrierejc@live.fr?subject=[GitHub]%20Source%20Han%20Sans)
 * [LinkedIn](https://linkedin.com/in/jean-christian-barriere)
 ## Installation
-***
-A little intro about the installation. 
-```
-$ git clone https://example.com
-$ cd ../path/to/the/file
-$ npm install
-$ npm start
-```
-Side information: To use the application in a special environment use ```lorem ipsum``` to start
+Pour ce [projet] (https://john-gate.github.io/jeanchristianbarriere_2_17092020/), aucune installation n'est nécessaire:
+
 ## Collaboration
 ***
 Give instructions on how to collaborate with your project.
