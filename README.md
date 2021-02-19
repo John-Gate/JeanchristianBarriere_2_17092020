@@ -1,9 +1,12 @@
 ## Table des Matières
 1. [Information Generale](#general-info)
-2. [  ](#technologies)
-3. [Installation](#installation)
-4. [Collaboration](#collaboration)
-5. [FAQs](#faqs)
+2. [Installation](#Installation)
+3. [Éléments fournis par l'entreprise virtuelle](#Éléments fournis par l'entreprise virtuelle)
+4. [Cahier des charges](#Cahier des charges)
+5. [Évaluation](#Évaluation)
+6. [Note](#Note)
+7. [Contact](#Contact)
+
 ### Information Generale
 Intégration d’une maquette en site web : Partir d’une maquette graphique pour transformer une page web en HTML CSS, implémenter une interface responsive, utiliser un système de gestion de version pour le suivie du projet et son hébergement.  
 ### Reservia 
@@ -27,13 +30,14 @@ _Réaliser un prototype_
 * Chaque carte d’hébergement ou d’activité devra être cliquable dans son intégralité. Pour l’instant les liens seront vides.
 * Les filtres ne seront pas fonctionnels pour cette version, en revanche, il faut qu’ils changent d’apparence au survol. Je te laisse décider de l’effet le plus approprié.
 * Dans le menu, les liens “Hébergements” et “Activités” sont des ancres qui doivent mener aux sections de la page.
-* Ne pas utiliser de Framwork/Pré-compilateur CSS.Soit Format Scratch.
+* Ne pas utiliser de Framwork/Pré-compilateur CSS. Réalisaiton au Format Scratch.
 * 
-## Autre
-L'IDE que j'ai utilisé est *Visual Studio Code*
-## Contact
-* [Email](mailto:barrierejc@live.fr?subject=[GitHub]%20Source%20Han%20Sans)
-* [LinkedIn](https://linkedin.com/in/jean-christian-barriere)
+## Note
+L'IDE que j'ai utilisé est *Visual Studio Code*. 
 
 ## Évaluation
 Ce projet a été validé par le jury d'OpenClassrooms le vendredi 23 octobre 2020.
+
+## Contact
+* [Email](mailto:barrierejc@live.fr?subject=[GitHub]%20Source%20Han%20Sans)
+* [LinkedIn](https://linkedin.com/in/jean-christian-barriere)
