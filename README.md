@@ -13,7 +13,7 @@ Write down the general informations of your project. It is worth to always put a
 ***
 A list of technologies used within the project:
 * [Email](mailto:barrierejc@live.fr?subject=[GitHub]%20Source%20Han%20Sans)
-* [LinkedIn](https://example.com)
+* [LinkedIn](https://linkedin.com/in/jean-christian-barriere)
 ## Installation
 ***
 A little intro about the installation. 
