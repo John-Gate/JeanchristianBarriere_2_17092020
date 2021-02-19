@@ -5,7 +5,7 @@
 4. [Collaboration](#collaboration)
 5. [FAQs](#faqs)
 ### General Info
-	Intégration d’une maquette en site web : Partir d’une maquette graphique pour transformer une page web en HTML CSS, implémenter une interface responsive, utiliser un système de gestion de version pour le suivie du projet et son hébergement.  
+Intégration d’une maquette en site web : Partir d’une maquette graphique pour transformer une page web en HTML CSS, implémenter une interface responsive, utiliser un système de gestion de version pour le suivie du projet et son hébergement.  
 ### Screenshot
 ![Image text](https://github.com/John-Gate/jeanchristianbarriere_2_17092020/blob/master/images/logo/Reservia.png)
 ## Technologies
