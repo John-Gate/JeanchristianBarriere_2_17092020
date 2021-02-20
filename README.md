@@ -3,8 +3,8 @@
 2. [Installation](#Installation)
 3. [Éléments fournis](#Éléments-fournis)
 4. [Cahier des charges](#Cahier-des-charges)
-5. [Évaluation](#Évaluation)
-6. [Note](#Note)
+5. [Note](#Note)
+6. [Évaluation](#Évaluation) 
 7. [Contact](#Contact)
 
 ### Information Generale
