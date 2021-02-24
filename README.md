@@ -1,9 +1,9 @@
 ## Table des Matières
-1. [Information Generale](#general-info)
+1. [Information Generale](#Information-Generale)
 2. [Installation](#Installation)
 3. [Éléments fournis](#Éléments-fournis)
 4. [Cahier des charges](#Cahier-des-charges)
-5. [Note](#Note)
+5. [Notes](#Notes)
 6. [Évaluation](#Évaluation) 
 7. [Contact](#Contact)
 
@@ -35,7 +35,7 @@ _Réaliser un prototype_
 * Dans le menu, les liens “Hébergements” et “Activités” sont des ancres qui doivent mener aux sections de la page.
 * Ne pas utiliser de Framwork/Pré-compilateur CSS. Réalisaiton au Format Scratch.
 
-## Note
+## Notes
 L'IDE que j'ai utilisé est *Visual Studio Code*. 
 
 ## Évaluation
